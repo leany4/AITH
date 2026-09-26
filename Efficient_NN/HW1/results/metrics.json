@@ -1,0 +1,25 @@
+{
+  "latency_s": {
+    "base_mape_pct": 16.68068932186471,
+    "extra_mape_pct": 26.675473371237178
+  },
+  "memory_bytes": {
+    "base_mape_pct": 52.9712862120014,
+    "extra_mape_pct": 53.175781293166914
+  },
+  "energy_j": {
+    "base_mape_pct": 14.867403564085043,
+    "extra_mape_pct": 23.346942696721744
+  },
+  "flops": {
+    "profiler_mac_max_abs_error": 0.0,
+    "convention": "MAC=2; ReLU/MaxPool comparison=1; GAP and Linear bias included"
+  },
+  "grid": {
+    "total": 132,
+    "base": 63,
+    "extra": 69,
+    "actual_oom": 0,
+    "predicted_oom": 0
+  }
+}

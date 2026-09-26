@@ -1,0 +1,17 @@
+{
+  "latency": {
+    "launch_s": 0.0003643056044726153,
+    "seconds_per_flop": 3.100138637904379e-13,
+    "seconds_per_byte": 1.2871071276686623e-11
+  },
+  "energy": {
+    "base_power_w": 66.07872913785941,
+    "joules_per_flop": 1.5791163040866524e-12,
+    "joules_per_byte": 0.0,
+    "latency": {
+      "launch_s": 0.0003643056044726153,
+      "seconds_per_flop": 3.100138637904379e-13,
+      "seconds_per_byte": 1.2871071276686623e-11
+    }
+  }
+}

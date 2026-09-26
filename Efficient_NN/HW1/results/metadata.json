@@ -1,0 +1,24 @@
+{
+  "gpu": "Tesla T4",
+  "torch": "2.10.0+cu128",
+  "cuda": "12.8",
+  "cudnn": 91002,
+  "extra_s": [
+    48,
+    400,
+    352,
+    112
+  ],
+  "extra_b": [
+    98,
+    167,
+    95
+  ],
+  "seed": 2026,
+  "precision": "FP32",
+  "benchmark": false,
+  "tf32": false,
+  "warmup": 10,
+  "repeats": 30,
+  "energy_method": "NVML power integral over 3 seconds / number of passes"
+}
